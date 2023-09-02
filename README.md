@@ -23,4 +23,4 @@ Start the program "bluelining.py".
 
 # Caveats
 
-The goal points are written directly in the "bluelining.py" program as of now.
+The goal points are written directly in the "bluelining.py" code as of now.
